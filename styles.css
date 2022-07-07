@@ -22,7 +22,7 @@ body{
 }
 
 .qr{
-    max-width:300px;
+    max-width:350px;
     width:90%;
     background-color:var(--white);
     padding:2em;
